@@ -1,4 +1,4 @@
-## Game for article
+# Game for article
 
 _Игра для статьи на Habr_
 

@@ -1,3 +1,3 @@
 # Game for article
 
-![картинка](https://krasivosti.pro/uploads/posts/2021-06/1623780705_19-krasivosti_pro-p-samaya-malenkaya-koshka-zhivotnie-krasivo-21.jpg)
+![картинка](https://lapkins.ru/upload/iblock/c3e/c3efe1eeeb89cb82ae4598a6cb71a579.jpeg)

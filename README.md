@@ -1,6 +1,6 @@
 # Game for article
 
-_Игра для статьи на Habr_
+##_Игра для статьи на Habr_
 
 Ссылки на статьи:
 - [1 часть](https://habr.com/ru/post/654525/)

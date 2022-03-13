@@ -1,3 +1,3 @@
 # Game for article
 
-[текст](htpps://www.google.com)
+[текст](https://www.google.com)
